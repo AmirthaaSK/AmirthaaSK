@@ -1,8 +1,5 @@
 # 💫 About Me:
-Computer Science Engineering student with hands-on experience in MERN stack and Python-based machine learning systems.  
-I build scalable web applications, ML-driven analytics platforms, and clean user-centric interfaces.  
-Experience includes developing REST APIs, working with databases, and delivering real-world projects through internships and team collaborations.  
-Actively seeking Software Developer roles to contribute and grow in a professional environment.
+Computer Science Engineering student with hands-on experience in MERN stack and Python-based machine learning systems.I build scalable web applications, ML-driven analytics platforms, and clean user-centric interfaces.Experience includes developing REST APIs, working with databases, and delivering real-world projects through internships and team collaborations.Actively seeking Software Developer roles to contribute and grow in a professional environment.
 
 
 ## 🌐 Socials:
