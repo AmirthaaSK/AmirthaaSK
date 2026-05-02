@@ -1,5 +1,8 @@
 # 💫 About Me:
-Computer Science Engineering student with hands-on experience in full-stack development (MERN) and machine learning. I build scalable web applications, data-driven systems, and focus on clean, user-centric design. Currently seeking opportunities to contribute as a Software Developer.
+Computer Science Engineering student with hands-on experience in MERN stack and Python-based machine learning systems.  
+I build scalable web applications, ML-driven analytics platforms, and clean user-centric interfaces.  
+Experience includes developing REST APIs, working with databases, and delivering real-world projects through internships and team collaborations.  
+Actively seeking Software Developer roles to contribute and grow in a professional environment.
 
 
 ## 🌐 Socials:
@@ -29,7 +32,7 @@ Computer Science Engineering student with hands-on experience in full-stack deve
 
 ---
 
-### 🌡️ Incubator Temperature Controller
+###  Incubator Temperature Controller
 
 <br>🔹 Real-time sensor-based system with PID control
 <br>🔹 Automated SMS alerts for abnormal conditions
@@ -37,7 +40,7 @@ Computer Science Engineering student with hands-on experience in full-stack deve
 
 ---
 
-### 💰 Finsakhi – Financial Literacy Platform
+### Finsakhi – Financial Literacy Platform
 
 <br>🔹 Web platform for rural women
 <br>🔹 Simulation-based learning system
@@ -47,7 +50,7 @@ Computer Science Engineering student with hands-on experience in full-stack deve
 
 ---
 
-### 🤖 Cyber Threat Monitoring System
+###  Cyber Threat Monitoring System
 
 <br>🔹Developed a cyber web crawler to monitor and analyze threats
 <br>🔹Focused on tracking suspicious activities and potential vulnerabilities
@@ -55,7 +58,9 @@ Computer Science Engineering student with hands-on experience in full-stack deve
 
 🔗 https://github.com/AmirthaaSK/ecoverse-cyber-threat-monitoring
 
-### ⚡ Smart Energy ML Dashboard
+---
+
+###  Smart Energy ML Dashboard
 A comprehensive energy analytics platform with ML-powered insights for industrial energy management.
 
 <br>🔹 Performed **energy consumption analysis and forecasting**
@@ -65,6 +70,7 @@ A comprehensive energy analytics platform with ML-powered insights for industria
 
 🔗 https://github.com/AmirthaaSK/ml_module
 
+---
 
 ## 🏆 Achievements
 
@@ -72,14 +78,6 @@ Top 50 / 1024 – PEC Hacks (National Level)
 <br>Top 60 – NXT Wave Buildathon
 <br>IEEE CS Society – UI/UX Event Coordinator
 <br>Organized Business Pitch Event
-
-
-## 🤝 Team Experience
-
-✔ Worked in collaborative environments during internships
-✔ Contributor in Elder Mood Mirror project
-✔ Strong communication & coordination skills
-
 
 
 ✨ *“I focus on building scalable systems with clean design and real-world impact.”*
