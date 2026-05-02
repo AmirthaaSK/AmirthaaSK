@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Engineering student with hands-on experience in full-stack development (MERN) and machine learning.  <br>I build scalable web applications, data-driven systems, and focus on clean, user-centric design.  <br>Currently seeking opportunities to contribute as a Software Developer.
+Computer Science Engineering student with hands-on experience in full-stack development (MERN) and machine learning. I build scalable web applications, data-driven systems, and focus on clean, user-centric design. Currently seeking opportunities to contribute as a Software Developer.
 
 
 ## 🌐 Socials:
@@ -21,9 +21,9 @@ Computer Science Engineering student with hands-on experience in full-stack deve
 
 ### Elder Mood Mirror – AI-Based Flutter App *(Contributor)*
 
-🔹 Emotional wellness tracking for elderly users
-🔹 Sentiment analysis using video/audio
-🔹 Personalized recommendations
+<br>🔹 Emotional wellness tracking for elderly users
+<br>🔹 Sentiment analysis using video/audio
+<br>🔹 Personalized recommendations
 
 🔗 https://github.com/PRRIYAAA/ElderMoodMirror
 
@@ -31,36 +31,37 @@ Computer Science Engineering student with hands-on experience in full-stack deve
 
 ### 🌡️ Incubator Temperature Controller
 
-🔹 Real-time sensor-based system with PID control
-🔹 Automated SMS alerts for abnormal conditions
-🔹 Dashboard monitoring system
+<br>🔹 Real-time sensor-based system with PID control
+<br>🔹 Automated SMS alerts for abnormal conditions
+<br>🔹 Dashboard monitoring system
 
 ---
 
 ### 💰 Finsakhi – Financial Literacy Platform
 
-🔹 Web platform for rural women
-🔹 Simulation-based learning system
-🔹 Accessibility-focused UI
+<br>🔹 Web platform for rural women
+<br>🔹 Simulation-based learning system
+<br>🔹 Accessibility-focused UI
 
 🔗 https://github.com/AmirthaaSK/finsakhi
 
 ---
 
 ### 🤖 Cyber Threat Monitoring System
-🔹Developed a cyber web crawler to monitor and analyze threats
-🔹Focused on tracking suspicious activities and potential vulnerabilities
-🔹Designed for real-time data collection and analysis
+
+<br>🔹Developed a cyber web crawler to monitor and analyze threats
+<br>🔹Focused on tracking suspicious activities and potential vulnerabilities
+<br>🔹Designed for real-time data collection and analysis
 
 🔗 https://github.com/AmirthaaSK/ecoverse-cyber-threat-monitoring
 
 ### ⚡ Smart Energy ML Dashboard
 A comprehensive energy analytics platform with ML-powered insights for industrial energy management.
 
-🔹 Performed **energy consumption analysis and forecasting**
-🔹 Implemented **anomaly detection for abnormal usage patterns**
-🔹Built **optimization models for energy efficiency**
-🔹Included **carbon tracking for sustainability insights**
+<br>🔹 Performed **energy consumption analysis and forecasting**
+<br>🔹 Implemented **anomaly detection for abnormal usage patterns**
+<br>🔹Built **optimization models for energy efficiency**
+<br>🔹Included **carbon tracking for sustainability insights**
 
 🔗 https://github.com/AmirthaaSK/ml_module
 
@@ -68,9 +69,9 @@ A comprehensive energy analytics platform with ML-powered insights for industria
 ## 🏆 Achievements
 
 Top 50 / 1024 – PEC Hacks (National Level)
-Top 60 – NXT Wave Buildathon
-IEEE CS Society – UI/UX Event Coordinator
-Organized Business Pitch Event
+<br>Top 60 – NXT Wave Buildathon
+<br>IEEE CS Society – UI/UX Event Coordinator
+<br>Organized Business Pitch Event
 
 
 ## 🤝 Team Experience
